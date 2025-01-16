@@ -1,5 +1,5 @@
 
-## Setup Environment - Anaconda
+## Setup Environment 
 ```
 pip install -r requirements.txt
 ```
